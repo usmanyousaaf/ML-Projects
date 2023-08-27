@@ -1,5 +1,9 @@
 # Streamlit Face Detection and Enhancement App
 
+## App Interface
+
+![App Interface](https://github.com/usmanyousaaf/ML-Projects/blob/main/Face%20Detection%20App/app%20pic/one.png)
+
 This Streamlit web application showcases the capabilities of OpenCV and Streamlit to perform various image enhancement and face detection tasks. The app allows users to upload an image and apply different enhancements to it, as well as detect faces, eyes, smiles, and even create artistic effects like cartoonization and edge detection.
 
 ## How to Use
@@ -17,7 +21,15 @@ This Streamlit web application showcases the capabilities of OpenCV and Streamli
 
 4. Process: Click the "Process" button to apply the selected enhancement or perform feature detection.
 
-![App Interface](path/to/app_screenshot.png)   
+
+ ## Results  
+
+ ![Detected Faces](https://github.com/usmanyousaaf/ML-Projects/blob/main/Face%20Detection%20App/app%20pic/two.png)
+
+
+ ## Features
+
+  ![Detected Faces](https://github.com/usmanyousaaf/ML-Projects/blob/main/Face%20Detection%20App/app%20pic/second+.png)
 
 ## About
 
