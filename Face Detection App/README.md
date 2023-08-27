@@ -29,7 +29,7 @@ This Streamlit web application showcases the capabilities of OpenCV and Streamli
 
  ## Features
 
-  ![Detected Faces](https://github.com/usmanyousaaf/ML-Projects/blob/main/Face%20Detection%20App/app%20pic/second+.png)
+  ![Detected Faces](https://github.com/usmanyousaaf/ML-Projects/blob/main/Face%20Detection%20App/app%20pic/three.png)
 
 ## About
 
